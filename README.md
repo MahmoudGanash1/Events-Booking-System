@@ -123,6 +123,8 @@ Events Booking System built with Laravel, featuring secure user authentication w
 
 ## 👤 Author
 
-**Mahmoud Ganash** – Developer / Project Owner  
-GitHub: [github.com/yourusername](https://github.com/MahmoudGanash1)  
-Email: Mahmoud2491@hotmail.com
+**Eng.Mahmoud Ganash** – Developer / Project Owner
+
+GitHub: https://github.com/MahmoudGanash1
+
+Email:  Mahmoud2491@hotmail.com
